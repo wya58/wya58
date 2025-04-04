@@ -1,6 +1,6 @@
 ## Welcome!
 
-My projects focus on data analytics and quantitative analysis in **finance**, with an emphasis on **_financial modeling_**, **_portfolio performance analysis_**, and **_predictive analytics_**.
+My projects focus on data analytics and quantitative analysis in **_finance_**, with an emphasis on **_financial modeling_**, **_portfolio performance analysis_**, and **_predictive analytics_**.
 
 **Tools:** Python · Power BI · Tableau · SQL
 
