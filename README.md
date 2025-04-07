@@ -10,4 +10,4 @@ My projects focus on data analytics and quantitative analysis in **_finance_**, 
 
 - 📉 **[Portfolio Analytics Dashboard](https://github.com/wya58/power-bi-projects/tree/main/Portfolio%20Analytics)** – Designed an interactive Power BI dashboard to evaluate portfolio performance, featuring return attribution, risk metrics, and scenario analysis.
 
-- 📈 **[Stock Price Prediction & Trading Strategies](https://github.com/wya58/python-projects/tree/main/Stock%20Price%20Prediction%20%26%20Trading%20Strategies%20Backtest)** – Developed neural network models to forecast stock prices and assess the effectiveness of various trading strategies.
+- 📈 **[Stock Return Modeling & Strategy Backtest](https://github.com/wya58/python-projects/tree/main/Stock%20Return%20Modeling%20and%20Strategy%20Backtest)** – Developed predictive models to estimate stock return direction using machine learning algorithms including Logistic Regression, Random Forest, RNN, and LSTM, and backtested resulting trading strategies against a buy-and-hold benchmark.
