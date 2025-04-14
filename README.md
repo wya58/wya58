@@ -11,3 +11,6 @@ My projects focus on data analytics and quantitative analysis in **_finance_**, 
 - 📉 **[Portfolio Analytics Dashboard](https://github.com/wya58/power-bi-projects/tree/main/Portfolio%20Analytics)** – Designed an interactive Power BI dashboard to evaluate portfolio performance, featuring return attribution, risk metrics, and scenario analysis.
 
 - 📈 **[Stock Return Modeling & Strategy Backtest](https://github.com/wya58/python-projects/tree/main/Stock%20Return%20Modeling%20and%20Strategy%20Backtest)** – Developed predictive models to estimate stock return direction using machine learning algorithms including Logistic Regression, Random Forest, RNN, and LSTM, and backtested resulting trading strategies against a buy-and-hold benchmark.
+
+- 🧮 **[Financial Analysis & Revenue Forecasting](https://github.com/wya58/power-bi-projects/tree/main/Financial%20Analysis)** – Developed a financial analysis and revenue forecasting tool for McDonald’s using time series models and Power BI, enabling scenario-based planning and dynamic visualization of key income statement metrics. 
+ 
