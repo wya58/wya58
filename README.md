@@ -6,7 +6,7 @@ My projects focus on data analytics and quantitative analysis in **_finance_**, 
 
 ### Featured Projects
 
-- 📊 **[Portfolio Risk Analysis](https://github.com/wya58/python-projects/tree/main/Portfolio%20Risk%20Analysis)** – Conducted multi-factor risk attribution and return prediction for a U.S. equity portfolio using Lasso, Gradient Boosting, and PCA regression, identifying key risk drivers and quantifying Marginal Risk Contributions. Estimated and backtested portfolio VaR and Expected Shortfall using ARIMA+GARCH and historical simulations to assess downside risk.
+- 📊 **[Portfolio Risk Analysis](https://github.com/wya58/python-projects/tree/main/Portfolio%20Risk%20Analysis)** – Performed multi-factor risk analysis to predict returns and identify key risk factors, utilizing techniques such as LASSO, Gradient Boosting, and PCA regression. Assessed portfolio Value at Risk (VaR) through ARIMA-GARCH models, historical simulations, and predictive models to evaluate downside risk.
 
 - 📉 **[Portfolio Analytics Dashboard](https://github.com/wya58/power-bi-projects/tree/main/Portfolio%20Analytics)** – Designed an interactive Power BI dashboard to evaluate portfolio performance, featuring return attribution, risk metrics, and scenario analysis.
 
